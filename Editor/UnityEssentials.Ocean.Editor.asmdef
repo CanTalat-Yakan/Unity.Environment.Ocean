@@ -1,0 +1,16 @@
+{
+    "name": "UnityEssentials.Ocean.Editor",
+    "rootNamespace": "UnityEssentials",
+    "references": [
+        "UnityEssentials.ResourceLoader.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
