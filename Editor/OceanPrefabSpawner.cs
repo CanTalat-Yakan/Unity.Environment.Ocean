@@ -9,7 +9,7 @@ namespace UnityEssentials
         [MenuItem("GameObject/Essentials/Ocean", false, priority = 102)]
         private static void InstantiateTimeOfDay(MenuCommand menuCommand)
         {
-            var prefab = ResourceLoaderEditor.InstantiatePrefab("UnityEssentials_Prefab_Ocean", "Ocean");
+            var prefab = AssetResolverEditor.InstantiatePrefab("UnityEssentials_Prefab_Ocean", "Ocean");
             if (prefab != null)
             {
             }
