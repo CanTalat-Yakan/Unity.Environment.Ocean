@@ -2,7 +2,8 @@
     "name": "UnityEssentials.Ocean.Editor",
     "rootNamespace": "UnityEssentials",
     "references": [
-        "UnityEssentials.AssetResolver.Editor"
+        "UnityEssentials.AssetResolver.Editor",
+        "UnityEssentials.AssetResolver"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
