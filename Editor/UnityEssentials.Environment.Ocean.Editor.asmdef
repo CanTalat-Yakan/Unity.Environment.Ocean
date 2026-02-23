@@ -1,5 +1,5 @@
 {
-    "name": "UnityEssentials.Ocean.Editor",
+    "name": "UnityEssentials.Environment.Ocean.Editor",
     "rootNamespace": "UnityEssentials",
     "references": [
         "UnityEssentials.AssetResolver.Editor",
