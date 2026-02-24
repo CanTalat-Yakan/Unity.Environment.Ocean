@@ -2,7 +2,8 @@
     "name": "UnityEssentials.Environment.Ocean.Editor",
     "rootNamespace": "UnityEssentials",
     "references": [
-        "GUID:0c677762363426746abd6799d82d40b8"
+        "GUID:0c677762363426746abd6799d82d40b8",
+        "GUID:fd1e7b63e0e7d634db53519cc860fe3a"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
